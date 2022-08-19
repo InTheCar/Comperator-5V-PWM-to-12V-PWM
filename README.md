@@ -2,7 +2,11 @@
 
 !!! It's under construction !!!
 
-The target is to convert a 5V PWM Signal to 12V PWM signal
+The target is to convert a 5V PWM Signal to 12V PWM signal.
+
+The main circuit is from the following web page:
+
+http://www.ne555.at/2014/index.php/schaltungstechnik/390-komparator-mit-lm393.html
 
 
 #Reference Voltage Calculation

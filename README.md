@@ -69,4 +69,7 @@ R1=1k
 R2=220R
 Uref=2.2V
 
-#go on 
+#the operation amplifier
+I choosed the LM393 operation amplifier:
+
+![LM393](https://github.com/InTheCar/Comperator-5V-PWM-to-12V-PWM/blob/main/pictures/LM393.png)

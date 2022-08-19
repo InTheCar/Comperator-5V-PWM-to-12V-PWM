@@ -89,6 +89,8 @@ R5=4K7
 
 ## The circuit with real LM393
 
+![the circuit with real LM393](https://github.com/InTheCar/Comperator-5V-PWM-to-12V-PWM/blob/main/pictures/the%20circuit%20with%20real%20LM393.png)
+
 R1=1k
 R2=220R
 R3=10k

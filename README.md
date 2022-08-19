@@ -80,6 +80,8 @@ I choosed the LM393 operation amplifier:
 
 <img src="https://github.com/InTheCar/Comperator-5V-PWM-to-12V-PWM/blob/main/pictures/the%20circuit.png" alt="the circuit" width="15000"/>
 
+<img src="https://github.com/InTheCar/Comperator-5V-PWM-to-12V-PWM/blob/main/pictures/the%20circuit.png" alt="the circuit" style="width:200px;"/>
+
 
 ![the circuit](https://github.com/InTheCar/Comperator-5V-PWM-to-12V-PWM/blob/main/pictures/the%20circuit.png)
 

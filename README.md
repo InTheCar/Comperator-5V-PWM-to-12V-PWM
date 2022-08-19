@@ -12,7 +12,7 @@ The supplied Voltage is 12V.
 The used resistors have 0.6W
 We use 2 resistors for the voltage devider.
 
-![the circuit](/Pfad/zum/Bild.jpg)
+![the circuit](https://github.com/InTheCar/Comperator-5V-PWM-to-12V-PWM/blob/main/pictures/Reference%20Voltage.png)
 
 What's the maximum current for 0.6W resistors?
 

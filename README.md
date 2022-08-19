@@ -9,7 +9,7 @@ The main circuit is from the following web page:
 http://www.ne555.at/2014/index.php/schaltungstechnik/390-komparator-mit-lm393.html
 
 
-#Reference Voltage Calculation
+## Reference Voltage Calculation
 
 The reference voltage should be the half of 5V.
 The supplied Voltage is Usupply=12V.
@@ -67,17 +67,19 @@ U2=220R*10mA
 U2=2.2V
 
 
-#Summarry of the results for the reference Voltage
+## Summarry of the results for the reference Voltage
 
 R1=1k
 R2=220R
 Uref=2.2V
 
-#the operation amplifier
+## the operation amplifier
 I choosed the LM393 operation amplifier:
 
 ![LM393](https://github.com/InTheCar/Comperator-5V-PWM-to-12V-PWM/blob/main/pictures/LM393.png)
 
+<img src="https://github.com/InTheCar/Comperator-5V-PWM-to-12V-PWM/blob/main/pictures/the%20circuit.png" alt="the circuit" width="200"/>
 
 
 ![the circuit](https://github.com/InTheCar/Comperator-5V-PWM-to-12V-PWM/blob/main/pictures/the%20circuit.png)
+

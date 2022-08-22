@@ -97,4 +97,10 @@ R3=10k
 R4=1M
 R5=4K7
 
+## The Prototype
+
+![the Prototype](https://github.com/InTheCar/Comperator-5V-PWM-to-12V-PWM/blob/main/pictures/Prototype%20-%20labels.png)
+
+
+
 

@@ -81,8 +81,8 @@ I choosed the LM393 operation amplifier:
 ## The circuit
 ![the circuit](https://github.com/InTheCar/Comperator-5V-PWM-to-12V-PWM/blob/main/pictures/the%20circuit.png)
 
-R1=1k
-R2=220R
+R1=47k
+R2=10k
 R3=10k
 R4=1M
 R5=4K7
@@ -91,8 +91,8 @@ R5=4K7
 
 ![the circuit with real LM393](https://github.com/InTheCar/Comperator-5V-PWM-to-12V-PWM/blob/main/pictures/the%20circuit%20with%20real%20LM393.png)
 
-R1=1k
-R2=220R
+R1=47k
+R2=10k
 R3=10k
 R4=1M
 R5=4K7

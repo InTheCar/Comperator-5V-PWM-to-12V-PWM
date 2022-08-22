@@ -35,43 +35,43 @@ This is the maximum current!! If it's more R1 will be blowed up.
 
 We define a current of 10mA. Both resistors are save with it.
 
-Now we calculte R1 with U1=9.5V and I=10mA:
+Now we calculte R1 with U1=9.5V and I=0.25mA:
 
 R1=U1/I
-R1=9.5V/10mA
-R1=950 Ohm
+R1=9.5V/0.25mA
+R1=38k
 ->
-R1=1k
+R1=47k
 
-Now we calculate R1 with U2=2.5V and I=10mA:
+Now we calculate R1 with U2=2.5V and I=0.25mA:
 
 R2=U1/I
-R2=2.5V/10mA
-R2=250 Ohm
+R2=2.5V/0.25mA
+R2=10k
 ->
-R2=220R
+R2=10k
 
 Due to the fact that the calculated resistors are not existing and we choosed the next existing one, we have to do the calculation with the choosen restistors again.
-R1=1k
-R2=220R
+R1=47k
+R2=10
 Usupply=12V
 
 (R1+R2)=Usupply/I
 I=Usupply/(R1+R2)
-I=12V/1.22k
-I=9,8mA
+I=12V/57k
+I=0,21mA
 
 And now the calculatuin of Uref:
 U2=R2*I
-U2=220R*10mA
-U2=2.2V
+U2=10k*0.21mA
+U2=2.1V
 
 
 ## Summarry of the results for the reference Voltage
 
-R1=1k
-R2=220R
-Uref=2.2V
+R1=47k
+R2=10k
+Uref=2.1V
 
 ## The operation amplifier
 I choosed the LM393 operation amplifier:

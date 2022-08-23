@@ -111,8 +111,13 @@ Holes : 1mm
 pitch : 2.54mm
 
 
+
 Don't forget to cut the cicuis under the bug  LM393
+
+
 ![cut it](https://github.com/InTheCar/Comperator-5V-PWM-to-12V-PWM/blob/main/pictures/Cut_It.png)
+
+Here is the sunny side up:
 
 ![the Prototype](https://github.com/InTheCar/Comperator-5V-PWM-to-12V-PWM/blob/main/pictures/Prototype%20-%20labels.png)
 

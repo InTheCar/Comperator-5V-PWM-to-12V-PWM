@@ -103,9 +103,13 @@ A drillen board is used for the prototype.
 Here a picture of the used circuit board:
 ![the circuit board](https://github.com/InTheCar/Comperator-5V-PWM-to-12V-PWM/blob/main/pictures/circuit%20board.png)
 Specification of the cicuit board:
+
 Cupper: 35µm
+
 Holes : 1mm
+
 pitch : 2.54mm
+
 
 
 

@@ -101,7 +101,7 @@ R5=4K7
 
 A drillen board is used for the prototype.
 Here a picture of the used circuit board:
-![the Prototype](https://github.com/InTheCar/Comperator-5V-PWM-to-12V-PWM/blob/main/pictures/Prototype%20-%20labels.png)
+![the circuit board](https://github.com/InTheCar/Comperator-5V-PWM-to-12V-PWM/blob/main/pictures/circuit%20board.png)
 
 
 ![the Prototype](https://github.com/InTheCar/Comperator-5V-PWM-to-12V-PWM/blob/main/pictures/Prototype%20-%20labels.png)

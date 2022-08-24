@@ -123,6 +123,7 @@ Here is the sunny side up:
 
 ![the Prototype](https://github.com/InTheCar/Comperator-5V-PWM-to-12V-PWM/blob/main/pictures/Prototype%20-%20labels.png)
 
+R1=47k  R2=10k  R3=10k  R4=1M   R5=4K7
 
 
 

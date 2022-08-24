@@ -110,6 +110,8 @@ Holes : 1mm
 
 pitch : 2.54mm
 
+metal film resistor 0.6W axial are used
+
 
 
 Don't forget to cut the cicuis under the bug  LM393
